@@ -1,5 +1,5 @@
-https://sanjeev.info.np/
+https://onemanzen.com/
 
 
 
-https://github.com/Sanjeevstha662/terminal-portfolio
+https://github.com/Sanjeevstha662/onemanzen
