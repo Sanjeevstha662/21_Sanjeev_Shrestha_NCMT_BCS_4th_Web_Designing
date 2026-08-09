@@ -1,5 +1,1 @@
-https://onemanzen.com/
-
-
-
-https://github.com/Sanjeevstha662/onemanzen
+https://github.com/Sanjeevstha662/wu-niman-software-devlopment
